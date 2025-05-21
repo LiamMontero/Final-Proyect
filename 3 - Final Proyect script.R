@@ -64,6 +64,18 @@ edx <- rbind(edx, removed)
 rm(dl, ratings, movies, test_index, temp, movielens, removed)
 
 
+
+###################
+# Data Exploratory
+###################
+
+head(edx)
+
+
+
+
+
+
 #################
 # Create a model 
 #################
